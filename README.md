@@ -7,6 +7,6 @@
 5. Which player has won most number Gold Medals of medals? (Top 5)
 6. In which year India won first Gold Medal in Summer Olympics?
 7. Which event is most popular in terms on number of players? (Top 5)
-8. Which sport is having most female Gold Medalists? (Top 5)
-#About the project
+8. Which sport is having most female Gold Medalists? (Top 5) 
+# About the project
 Analyse the summer Olympic data using python,pandas and matplotlib. 
